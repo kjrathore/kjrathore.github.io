@@ -12,14 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Environmental Sciences and Applied AI, 2025 (expected)
-* Masters in Mathematical modeling and Simulation, Centre for Modeling & Simulation, Pune, 2019
+* Masters in Mathematical Modeling and Simulation, Centre for Modeling & Simulation, Pune, 2019
 * B.E. in Automotive Engineering, Pune University, 2017
 
 Work experience
 ======
 * 2023-2025: **Graduate Research Assistant**
   * Oregon State University
-  * Duties includes: Research in data driven modeling for HAB 
   * Predicting Critical transition via hybrid data-driven model in Socio-Economic Ecological models.
   * Working with Socio-Environmental Analysis (SEA) Lab on data-driven ecology.
   * Supervisor: [Dr. James Watson, CEAOS, OSU](https://ceoas.oregonstate.edu/directory/james-watson)
@@ -28,14 +27,14 @@ Work experience
 * 2022-2023: **Graduate Teaching Assistant**
   * Oregon State University
   * Explainable AI for Computer Vision DL models and LLMs, Scientific Machine Learning
-  * Working on Explianable AI project, buidling human understandable explanations for DL models.
+  * Working on Explainable AI project, building human-understandable explanations for DL models.
   * Supervisor: [Dr. Prasad Tadepalli, EECS, OSU](https://engineering.oregonstate.edu/people/prasad-tadepalli)
 
 * Summer 2023: **AI/ML Intern**
   * Seagate Technology LLC
   * Supervisor: Addishiwot Woldesenbet
   * Led the integration of Generative AI and Large Language Model (LLM) technologies into enterprise applications.
-  * Developed and optimized LLM models by prompt engineering to convert natural language inquiries into structured and unstructured database queries. This implementation significantly reduced query time, enhanced usability for users unfamiliar with SQL databases, and minimized human errors.
+  * Developed and optimized LLM models by prompt engineering to convert natural language inquiries into structured and unstructured database queries. This implementation significantly reduced query time, enhanced usability for users unfamiliar with SQL database, and minimized human errors.
   * Played a key role in the exploration, design, evaluation and implementation of efficient data processing pipelines, thereby improving overall system performance.
 
 * 2019 - 2021: **Senior ML Engineer**
@@ -49,10 +48,10 @@ Work experience
 * Jan-July 2019: **ML Intern**
   * Persistent Systems, Pune, INDIA
   * Supervisor: Kshitij Deshmukh
-  * Organizational Network and Data Analytics Tool: I conducted research and development for a tool designed to analyze organizational network and data. This project involved visualizing the network and interaction of 10k+ employees.
+  * Organizational Network and Data Analytics Tool: I conducted research and development for a tool designed to analyze organizational networks and data. This project involved visualizing the network and interaction of 10k+ employees.
   * Feedback Summarization and Analytics Tool: I developed a machine learning-based tool for summarizing and analyzing survey feedback. This tool was designed to extract key insights from large volumes of survey data, enabling efficient decision-making for human resources.
   * Chatbot Performance Enhancement: I designed, reconstructed, and implemented a framework to enhance chatbot performance. This involved the use of human feedback learning to continuously improve the chatbot's responses and overall user experience.
-  * Explanation for Deep learning: Implemented and evaluated explainable AI techniques for deep learning models trained on medical image data.
+  * Explanation for Deep Learning models: Implemented and evaluated explainable AI techniques for deep learning models trained on medical image data.
 
   
 Skills
@@ -62,7 +61,7 @@ Skills
   * Statistics and mathematical modeling
 * **Soft Skills**
   * Inter-Disciplinary Research background, 
-  * Strong problem solving & computational skills, 
+  * Strong problem-solving & computational skills, 
   * Advanced engineering and modeling skills, 
   * Software project management, 
   * Excellent writing and communication skills, 
@@ -95,7 +94,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching Assitance
+Teaching Assistance
 ======
   * Computer Vision
   * Data Structures and Algorithm
@@ -103,4 +102,4 @@ Teaching Assitance
   
 Leadership
 ======
-* Lead my team at Formula Student Racing events for 2 consecutive years.
+* Led my team at Formula Student Racing events for 2 consecutive years.

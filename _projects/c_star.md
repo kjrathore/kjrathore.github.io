@@ -10,11 +10,11 @@ location: "Corvallis, OR, USA"
 
 This page provides details about our project on Predicting unresolved variables in dynamical systems using Scientific Machine Learning
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

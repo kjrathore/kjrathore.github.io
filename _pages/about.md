@@ -11,11 +11,11 @@ redirect_from:
 ***"Life is like a [chaotic system](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}, where you might need to find another basin of attractor to keep the system in equilibrium."***
 
 
-My name is Kunal Rathore, belonging from a village in historical district [Burhanpur, The gateway of Deccan](https://burhanpur.nic.in/en/history/)  of MadhyaPradesh State, INDIA.
+My name is Kunal Rathore, belonging to the historical district [Burhanpur, The gateway of Deccan](https://burhanpur.nic.in/en/history/) of MadhyaPradesh State, INDIA.
 
-I am a data science enthusiast, currently pursuing PhD with major in [Environmental Sciences](https://gradschool.oregonstate.edu/environmental-sciences-graduate-program-esgp) and [Artificial Intelligence](https://engineering.oregonstate.edu/academics/degrees/artificial-intelligence) at Oregon State University. I am working with Prof. James Watson at [Socio-Environmental Analysis (SEA)](https://jrwatson.ceoas.oregonstate.edu/about/) Lab, on hybrid modeling for Harmful Algal Blooms (HAB) predictions. My research interest lies in sustainable development and deployment of data-driven models across interdisciplinary domains. I have extensively worked on natural language processing, data analysis + modeling techniques and Computer Vision problems. I am passionate about Formula 1, cycling, hiking and exploring much more...
+I am a data science enthusiast, currently pursuing PhD with a major in [Environmental Sciences](https://gradschool.oregonstate.edu/environmental-sciences-graduate-program-esgp) and [Artificial Intelligence](https://engineering.oregonstate.edu/academics/degrees/artificial-intelligence) at Oregon State University. I am working with Prof. James Watson at [Socio Environmental Analysis (SEA)](https://jrwatson.ceoas.oregonstate.edu/about/) Lab, on hybrid modeling for Harmful Algal Blooms (HAB) predictions. My research interest lies in sustainable development and deployment of data-driven models across interdisciplinary domains. I have extensively worked on natural language processing, data analysis + modeling techniques, and Computer Vision problems. I am passionate about Formula 1, cycling, hiking, and exploring much more...
 
-* If our interests match, I am always open to collaborate and start something adventurous! Please feel free to connect.
+* If our interests match, I am always open to collaborating and starting something adventurous! Please feel free to connect.
 
 
 

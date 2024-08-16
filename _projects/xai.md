@@ -10,7 +10,7 @@ location: "Corvallis, OR, USA"
 
 This page provides details about my research work in Explainable AI at a brief level.
 
-Local Vs. Global explanations
+<!-- Local Vs. Global explanations
 ======
 
 Sub-Symbolic level explanations
@@ -20,4 +20,4 @@ Generating Symbols
 ======
 
 Generating Global Explanations
-======
+====== -->

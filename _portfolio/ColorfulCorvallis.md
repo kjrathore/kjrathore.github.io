@@ -3,12 +3,8 @@ title: "Colorful Corvallis"
 excerpt: "Blooming Beauties: colored memories I can not ever leave behind!!  <br/><img src='/images/flowers/IMG_4846.JPG'>"
 collection: portfolio
 ---
-<!-- I always admire the upcoming Spring season after a long peircing Winter in Oregon. Spring regenerates enrgy and enthusiam, with a huge number of flowers blooming in the valley.
-And not to forget the buzzing bumble bees I can see humming around the campus grounds.
-The memorable beauty I can not ever leave behind!!
-Let me show few of them.. -->
 
-I forever cherish the arrival of Spring, following a lengthy, piercing Winter in Oregon. Spring breathes new energy and enthusiasm, with a multitude of flowers blossoming in the valley. And who could overlook the buzzing bumble bees, humming around the campus grounds? The unforgettable beauty is something I could never leave behind! 
+I always cherish the arrival of Spring, following a lengthy, piercing Winter in Oregon. Spring breathes new energy and enthusiasm, with a multitude of flowers blossoming in the valley. And who could overlook the buzzing bumble bees, humming around the campus grounds? The unforgettable beauty is something I could never leave behind! 
 
 Allow me to share a few glimpses…
 
