@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href ="https://kjrathore.github.io/files/Resume_kjrathore.pdf" attributes-list>Resume.pdf</a>  
+
 
 Education
 ======
