@@ -8,6 +8,8 @@ date: 2024-10-03
 location: "Corvallis, OR, USA"
 ---
 
+<img src='/images/CStar_CoverImage.png'>
+
 What if we could predict ecosystem collapse before it happens—even when the driving forces remain hidden from view? This research introduces a breakthrough method to identify and forecast regime shifts driven by unobserved factors like illegal poaching or unreported fishing.
 
 The Hidden Threat to Ecosystems

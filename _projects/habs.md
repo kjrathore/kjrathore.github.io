@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Corvallis, OR, USA"
 ---
 
-![Recent Harmful Algal Bloom at Lake Erie](images/Lake-Erie-harmful-algal-blooms.jpg)
+<img src='/images/Lake-Erie-harmful-algal-blooms.jpg'>
 
 What if we could see a lake's future before harmful algal blooms devastate ecosystems, shut down water treatment plants, and threaten public health? This project creates digital twins of lakes—virtual replicas that predict dangerous blooms before they happen.
 
