@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environmental Sciences and Applied AI, 2025 (expected)
+* Ph.D in Environmental Sciences and Applied AI, 2026 (expected)
 * Masters in Mathematical Modeling and Simulation, Centre for Modeling & Simulation, Pune, 2019
-* B.E. in Automotive Engineering, Pune University, 2017
+* Bachelors in Automotive Engineering, Pune University, 2017
 
 Work experience
 ======
