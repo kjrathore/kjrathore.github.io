@@ -6,6 +6,7 @@ permalink: /projects/gepc
 venue: "Oregon State University"
 date: 2024-01-01
 location: "Corvallis, OR, USA"
+excerpt: "Scalable Explainable AI framework achieving 84% label-transfer accuracy across 158 ImageNet categories, reducing annotation effort by 85%. Transforms opaque neural network predictions into human-readable part-based explanations."
 ---
 <img src='/images/Painted_bunting_correspond.png'>
 

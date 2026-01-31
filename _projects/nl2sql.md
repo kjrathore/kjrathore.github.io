@@ -5,7 +5,7 @@ type: "Industry Project"
 permalink: /projects/nl2sql
 # venue: "Seagate Technology LLC"
 date: 2023-08-01
-# location: "Fremont, CA, USA"
+excerpt: "Multi-stage LLM pipeline achieving 91% accuracy that converts plain-English questions into optimized SQL queries, cutting query fulfillment from days to under 3 seconds. Built during AI/ML internship at Seagate Technology."
 ---
 
 What if anyone in your organization could query complex enterprise databases — without writing a single line of SQL? During my internship at Seagate Technology, I designed and built exactly that: a multi-stage LLM pipeline that converts plain-English questions into precise, optimized database queries in real time — cutting query fulfillment from days to seconds.

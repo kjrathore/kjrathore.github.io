@@ -6,6 +6,7 @@ permalink: /projects/c_star
 venue: "Oregon State University"
 date: 2024-10-03
 location: "Corvallis, OR, USA"
+excerpt: "Universal Dynamic Equations (UDEs) that uncover hidden drivers of ecosystem collapse from observable data alone—delivering superior early-warning capability for regime shifts with less data than conventional methods."
 ---
 
 <img src='/images/CStar_CoverImage.png'>

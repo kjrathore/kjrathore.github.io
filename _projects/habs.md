@@ -6,6 +6,8 @@ permalink: /projects/hybrid_hab
 venue: "Oregon State University"
 date: 2024-01-01
 location: "Corvallis, OR, USA"
+excerpt: "Digital twin models that predict dangerous harmful algal blooms before they happen, combining watershed simulation, hydrodynamic modeling, and machine learning. Funded by U.S. Army Corps of Engineers."
+
 ---
 
 <img src='/images/Lake-Erie-harmful-algal-blooms.jpg'>
