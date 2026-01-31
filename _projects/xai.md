@@ -7,6 +7,8 @@ venue: "Oregon State University"
 date: 2024-01-01
 location: "Corvallis, OR, USA"
 ---
+<img src='/images/Painted_bunting_correspond.png'>
+
 
 How can we trust AI systems when we can't understand their decisions? This research presents a breakthrough method that transforms opaque neural network predictions into human-readable explanations—without requiring massive annotation efforts.
 

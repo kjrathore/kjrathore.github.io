@@ -11,21 +11,20 @@ redirect_from:
 ***"Life is like a [chaotic system](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}, where you might need to find another basin of attractor to keep the system in equilibrium."***
 
 
-My name is Kunal Rathore, belonging to the historical district [Burhanpur, The gateway of Deccan](https://burhanpur.nic.in/en/history/) of MadhyaPradesh State, INDIA.
+I'm Kunal Rathore — an AI/ML engineer and PhD researcher at [Oregon State University](https://engineering.oregonstate.edu/academics/degrees/artificial-intelligence), working at the intersection of [Environmental Sciences](https://gradschool.oregonstate.edu/environmental-sciences-graduate-program-esgp) and Applied AI. With hands-on industry experience building and deploying production ML systems at [Seagate Technology](https://www.seagate.com/) and [Persistent Systems](https://www.persistent.com/), I bring a strong track record of translating research into scalable, industry-ready solutions.
 
-I am a data science enthusiast, currently pursuing PhD with a major in [Environmental Sciences](https://gradschool.oregonstate.edu/environmental-sciences-graduate-program-esgp) and [Artificial Intelligence](https://engineering.oregonstate.edu/academics/degrees/artificial-intelligence) at Oregon State University. I am working with Prof. James Watson at [Socio Environmental Analysis (SEA)](https://jrwatson.ceoas.oregonstate.edu/about/) Lab, on hybrid modeling for Harmful Algal Blooms (HAB) predictions. My research interest lies in sustainable development and deployment of data-driven models across interdisciplinary domains. I have extensively worked on natural language processing, data analysis + modeling techniques, and Computer Vision problems. I am passionate about Formula 1, cycling, hiking, and exploring much more...
+My work spans **Generative AI & LLMs**, **Scientific Machine Learning**, **Explainable AI**, **Computer Vision**, and **Data-driven Predictive Modeling** from enterprise NL-to-SQL pipelines and real-time sentiment platforms to digital twin models for environmental forecasting.
+
+Currently, I research with Prof. James Watson at the [Socio-Environmental Analysis (SEA)](https://jrwatson.ceoas.oregonstate.edu/about/) Lab, developing hybrid AI models that combine mechanistic science with deep learning for ecosystem prediction and critical transition detection.
+
+**Featured Projects — [View All →](/projects/)**
+
+* **[NL2SQL: LLM-Powered Natural Language to Database Query Engine](/projects/nl2sql)** — Multi-stage prompt-engineered pipeline built at Seagate Technology that converts plain-English questions into optimized SQL queries at 91% accuracy, cutting query fulfillment from days to <3 seconds.
+* **[Hybrid HAB: Digital Twins for Predicting Harmful Algal Blooms](/projects/hybrid_hab)** — Hybrid ML + mechanistic modeling framework for real-time bloom prediction and "what-if" scenario testing in lake ecosystems. Funded by U.S. Army Corps of Engineers.
+* **[C-Star: Predicting Unresolved Variables in Dynamical Systems](/projects/c_star)** — Universal Dynamic Equations (UDEs) that uncover hidden drivers of ecosystem regime shifts from observable data alone — delivering superior early-warning capability with less data than conventional methods.
+* **[GEPC: Making AI Decisions Understandable](/projects/gepc)** — Scalable Explainable AI framework achieving 84% label-transfer accuracy across 158 ImageNet categories, reducing annotation effort by 85%. Published at [IJCAI 2024 XAI Workshop](https://arxiv.org/html/2509.15393v1).
 
 * If our interests match, I am always open to collaborating and starting something adventurous! Please feel free to connect.
 
-
-
-<!-- 
-<img src='/images/wordcloud/wc1.png'>
-
-<img src='/images/wordcloud/wc2.png'>
-
-<img src='/images/wordcloud/wc3.png'>
-
-<img src='/images/wordcloud/wc4.png'> -->
 
 <img src='/images/wordcloud/wc5.png'>
