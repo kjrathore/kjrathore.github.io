@@ -6,7 +6,6 @@ image: "/assets/images/portfolio_spatial_accumulation.jpg"
 summary: "An enterprise-scale probabilistic catastrophe model that turns 170 years of NOAA storm data and US economic data into a 10,000-year hurricane loss simulation — pricing insurance risk down to the individual property."
 ---
 
-# Simulating Hurricane Risk to Price Insurance Losses
 
 Insurers price hurricane risk using roughly 50 years of *reliable* storm data. That's not enough to know what a true 1-in-500-year storm looks like — and climate change is making the historical record even less useful. **Under-pricing that tail risk is how insurers go insolvent.**
 
@@ -28,12 +27,12 @@ I built a full probabilistic catastrophe model — the same class of system used
 
 ## Where the Risk Lives
 
-![Portfolio Spatial Accumulation](images/portfolio_spatial_accumulation.png)
+<img src='/images/portfolio_spatial_accumulation.png'>
 *Insured loss accumulation across the coastal portfolio — bubble size is property value, color is simulated lifetime loss.*
 
 ## What It Costs to Survive the Tail
 
-![Exceedance Probability Curve](images/exceedance_probability_curve.png)
+<img src='/images/exceedance_probability_curve.png'>
 *The capital question every insurer has to answer: how much do I need on the balance sheet to survive a 1-in-100 or 1-in-500 year storm?*
 
 | Return Period | Insured Loss |
@@ -45,14 +44,14 @@ I built a full probabilistic catastrophe model — the same class of system used
 
 ## Who Pays, By Construction Type
 
-![Loss Composition by Construction](images/loss_composition_by_construction.png)
+<img src='/images/loss_composition_by_construction.png'>
 *Wood-frame residential absorbs disproportionate damage relative to reinforced-concrete commercial — exactly what 80 years of wind engineering would predict.*
 
 ---
 
 ## How It Works
 
-Four linked stages — the standard architecture across the cat-modeling industry:
+Four linked stages: the standard architecture across the cat-modeling industry:
 
 1. **Hazard** — Fit a continuous Weibull distribution to historical storm intensities (MLE), then simulate thousands of years of new storms, including Category 5 events the historical record has never directly observed.
 2. **Exposure** — Use NOAA economic indices to realistically place a synthetic property portfolio across six high-hazard coastal counties (Miami-Dade, Harris, Charleston, and others).
@@ -77,10 +76,11 @@ The fix was treating this as a data engineering problem, not a modeling one:
 
 ## Tech Stack
 
-`Python` · `NumPy` · `pandas` · `SciPy` · `PyArrow` / `Parquet` · `Matplotlib` / `Seaborn` · NOAA HURDAT2 & ENOW data
+- `Python` · `NumPy` · `pandas` · `SciPy` · `PyArrow` / `Parquet` · `Matplotlib` / `Seaborn`  \\
+- NOAA HURDAT2 & ENOW data
 
 ## See It in Action
 
-| 💻 [View code on GitHub](https://github.com/kjrathore/CatRisk_HurricanLoss.git) | 📄 [Full technical writeup](https://github.com/kjrathore/CatRisk_HurricaneLoss/blob/main/README.md) |
-|---|---|
+| 💻 [View code on GitHub](https://github.com/kjrathore/CatRisk_HurricanLoss.git) | 📄 [Full technical writeup](https://github.com/kjrathore/CatRisk_HurricanLoss/blob/main/CatRisk_hurricane_arxiv_v1.pdf) |
+
 
