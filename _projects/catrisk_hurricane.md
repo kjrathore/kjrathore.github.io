@@ -7,9 +7,12 @@ summary: "An enterprise-scale probabilistic catastrophe model that turns 170 yea
 ---
 
 
-Insurers price hurricane risk using roughly 50 years of *reliable* storm data. That's not enough to know what a true 1-in-500-year storm looks like — and climate change is making the historical record even less useful. **Under-pricing that tail risk is how insurers go insolvent.**
-
-I built a full probabilistic catastrophe model — the same class of system used by Verisk/AIR and Moody's RMS — that simulates **10,000 years** of physically plausible hurricanes against a synthetic **$39.01B** Gulf & Atlantic coast property portfolio, and prices the resulting insurance losses down to the dollar.
+Insurers price hurricane risk using roughly 50 years of reliable storm data. That's not enough to know what a true 1-in-500-year storm looks like, and climate change is making the historical record even less useful. Under-pricing that tail risk is how insurers go insolvent.
+I built a full probabilistic catastrophe model (the same class of system used by Verisk/AIR and Moody's RMS) that simulates 10,000 years of physically plausible hurricanes against a synthetic $39.01B Gulf & Atlantic coast property portfolio, and prices the resulting insurance losses down to the dollar.
+<img src='/images/catrisk/geospatial_real_map.png'>
+*170 years of North Atlantic hurricane tracks (NOAA HURDAT2), the real data this simulation is built on.*
+<img src='/images/catrisk/historical_frequency_trend.png'>
+*Storm counts have climbed over the historical record, though part of that rise is better satellite detection since the 1970s, not climate alone. Either way, it's exactly the kind of short, shifting record that makes simulation necessary instead of simple averaging.*
 
 ---
 
@@ -27,12 +30,12 @@ I built a full probabilistic catastrophe model — the same class of system used
 
 ## Where the Risk Lives
 
-<img src='/images/portfolio_spatial_accumulation.png'>
+<img src='/images/catrisk/portfolio_spatial_accumulation.png'>
 *Insured loss accumulation across the coastal portfolio — bubble size is property value, color is simulated lifetime loss.*
 
 ## What It Costs to Survive the Tail
 
-<img src='/images/exceedance_probability_curve.png'>
+<img src='/images/catrisk/exceedance_probability_curve.png'>
 *The capital question every insurer has to answer: how much do I need on the balance sheet to survive a 1-in-100 or 1-in-500 year storm?*
 
 | Return Period | Insured Loss |
@@ -44,7 +47,7 @@ I built a full probabilistic catastrophe model — the same class of system used
 
 ## Who Pays, By Construction Type
 
-<img src='/images/loss_composition_by_construction.png'>
+<img src='/images/catrisk/loss_composition_by_construction.png'>
 *Wood-frame residential absorbs disproportionate damage relative to reinforced-concrete commercial — exactly what 80 years of wind engineering would predict.*
 
 ---
@@ -82,5 +85,3 @@ The fix was treating this as a data engineering problem, not a modeling one:
 ## See It in Action
 
 | 💻 [View code on GitHub](https://github.com/kjrathore/CatRisk_HurricanLoss.git) | 📄 [Full technical writeup](https://github.com/kjrathore/CatRisk_HurricanLoss/blob/main/CatRisk_hurricane_arxiv_v1.pdf) |
-
-
