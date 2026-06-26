@@ -1,8 +1,9 @@
 ---
 title: "Simulating Hurricane Risk to Price Insurance Losses"
 category: "Climate & Catastrophe Risk Analytics"
+excerpt: "A probabilistic catastrophe model that simulates 10,000 years of hurricanes against a synthetic $39.01B coastal property portfolio to price insured losses."
 skills: [Python, High-Performance Computing, PyArrow Parquet, Extreme Value Theory, Solvency Stress Testing]
-image: "/assets/images/portfolio_spatial_accumulation.jpg"
+image: "https://kjrathore.github.io/images/catrisk/portfolio_spatial_accumulation.png"
 summary: "An enterprise-scale probabilistic catastrophe model that turns 170 years of NOAA storm data and US economic data into a 10,000-year hurricane loss simulation — pricing insurance risk down to the individual property."
 ---
 
