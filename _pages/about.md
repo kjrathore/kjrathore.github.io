@@ -11,7 +11,7 @@ redirect_from:
 ***"Life is like a [chaotic system](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}, where you might need to find another basin of attractor to keep the system in equilibrium."***
 
 
-I'm Kunal Rathore — an AI/ML engineer and PhD researcher at [Oregon State University](https://engineering.oregonstate.edu/academics/degrees/artificial-intelligence), working at the intersection of [Environmental Sciences](https://gradschool.oregonstate.edu/environmental-sciences-graduate-program-esgp) and Applied AI. With hands-on industry experience building and deploying production ML systems at [Seagate Technology](https://www.seagate.com/) and [Persistent Systems](https://www.persistent.com/), I bring a strong track record of translating research into scalable, industry-ready solutions.
+I'm Kunal Rathore — an Applied AI Scientist with PhD in Environmental Sciences from [Oregon State University](https://oregonstate.edu/), my research work comprises of developing hybrid modeling techniques including but not limited to hydrology, water-quality simulations, remote sensing, and Deep Learning. With hands-on industry experience building and deploying production ML systems at [Seagate Technology](https://www.seagate.com/) and [Persistent Systems](https://www.persistent.com/), I bring a strong track record of translating research into scalable, industry-ready solutions.
 
 My work spans **Generative AI & LLMs**, **Scientific Machine Learning**, **Explainable AI**, **Computer Vision**, and **Data-driven Predictive Modeling** from enterprise NL-to-SQL pipelines and real-time sentiment platforms to digital twin models for environmental forecasting.
 

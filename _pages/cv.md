@@ -13,15 +13,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environmental Sciences and Applied AI, 2026 (expected)
+* Ph.D in Environmental Sciences and Applied AI, 2026
 * Masters in Mathematical Modeling and Simulation, Centre for Modeling & Simulation, Pune, 2019
-* Bachelors in Automotive Engineering, Pune University, 2017
+* Bachelors in Engineering, Pune University, 2017
 
 Work experience
 ======
-* 2023-2025: **Graduate Research Assistant**
+* 2023-2026: **Graduate Research Assistant**
   * Oregon State University
-  * Predicting Critical transition via hybrid data-driven model in Socio-Economic Ecological models.
+  * Hybrid Modeling for predicting large and abrupt changes in the environmental systems.
   * Working with Socio-Environmental Analysis (SEA) Lab on data-driven ecology.
   * Supervisor: [Dr. James Watson, CEAOS, OSU](https://ceoas.oregonstate.edu/directory/james-watson)
 
